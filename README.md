@@ -1,9 +1,9 @@
 # TP-Gestion-Serie 
-📺 GestionSeries
+	GestionSeries
 
 Application web développée dans le cadre du Master SIGLIS (Université de Pau et des Pays de l'Adour - UPPA) pour la gestion hiérarchique de séries, saisons et épisodes.
 
-🚀 Stack Technique & Environnement
+Stack Technique & Environnement
 
 Backend : Java EE / Jakarta EE 10 (Servlets, JSP, JSTL)
 
@@ -17,7 +17,7 @@ Gestionnaire de dépendances : Maven
 
 IDE : Eclipse IDE
 
-📋 Fonctionnalités Principales
+ Fonctionnalités Principales
 
 CRUD Séries : Création, affichage et suppression en cascade de séries.
 
@@ -27,7 +27,7 @@ Gestion des Épisodes : Création d'épisodes, basculement de l'état de visionn
 
 Architecture MVC & DAO : Séparation stricte entre les vues (JSP), les contrôleurs (Servlets) et l'accès aux données (interfaces DAO et implémentations BDD).
 
-🛠️ Instructions de Déploiement
+ Instructions de Déploiement
 
 Cloner le dépôt sur votre machine locale.
 
@@ -39,6 +39,6 @@ Vérifier et adapter les paramètres de connexion dans src/META-INF/persistence.
 
 Lancer l'application sur le serveur Apache Tomcat 10.1 via Run As -> Run on Server.
 
-👨‍💻 Auteur
+ Auteur
 
 Projet réalisé par Madou DIAKAYETEBA (Master SIGLIS).
